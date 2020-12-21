@@ -7,10 +7,7 @@ Cyberpunk 2077 apology images.
 
 License
 =============================
-All the code is GPL3 licensed.
-
-The data images themselves are copyright their original games/software, 
-and are used here under fair use. Consider that before you try to reuse them!
+GNU GPL
 
 Software credits
 =============================
