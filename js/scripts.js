@@ -5,7 +5,7 @@ var fontImage = null
 var fontInfo = null
 var overlayNames = null
 var overlayOverrides = null
-var selectedGenerator = 'POWER GENERATOR'
+var selectedGenerator = 'cyberpunk'
 var glitch = false
 
 var generators={
@@ -13,7 +13,7 @@ var generators={
 		'title': 'POWER GENIE GENERATOR',
 		'source':'Captain Strannik',
 		'sourceurl':'https://www.youtube.com/channel/UCWlCZoSIqf7mm167pjwIJCw',
-		'defaulttext':"[bold]Дорогой Power Genie\n\n"
+		'defaulttext':"[bold]Дорогой Power Genie\n\n  will do our\nbest to help you. Starting from today, you can contact us for a week up until December 21st, 2020."
 	}
 }
 
